@@ -1,0 +1,7 @@
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\bin\Debug\KarabaySozluk.exe
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\bin\Debug\KarabaySozluk.pdb
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\obj\x86\Debug\KarabaySozluk.Form1.resources
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\obj\x86\Debug\KarabaySozluk.Properties.Resources.resources
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\obj\x86\Debug\KarabaySozluk.csproj.GenerateResource.Cache
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\obj\x86\Debug\KarabaySozluk.exe
+c:\users\barış\documents\visual studio 2010\Projects\KarabaySozluk\KarabaySozluk\obj\x86\Debug\KarabaySozluk.pdb
